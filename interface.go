@@ -24,7 +24,7 @@ const (
 	// VersionDraft32 is IETF QUIC draft-32
 	VersionDraft32 = protocol.VersionDraft32
 	// VersionDraft34 is IETF QUIC draft-34
-	VersionDraft24 = protocol.VersionDraft34
+	VersionDraft34 = protocol.VersionDraft34
 	// Version1 is RFC 9000
 	Version1 = protocol.Version1
 )
